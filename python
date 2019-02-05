@@ -1,0 +1,5 @@
+x = int(input("Enter a number"))
+if x > 2:
+	print("It is bigger than 2")
+elif x = 1:
+	print("It is equal to 1")
